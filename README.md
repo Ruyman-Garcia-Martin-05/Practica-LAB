@@ -1,0 +1,2 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Ruyman-Garcia-Martin-05_Practica-LAB&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Ruyman-Garcia-Martin-05_Practica-LAB)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=Ruyman-Garcia-Martin-05_Practica-LAB&metric=coverage)](https://sonarcloud.io/summary/new_code?id=Ruyman-Garcia-Martin-05_Practica-LAB)
